@@ -8,3 +8,8 @@ git status
 shell-script
 -----------
 shebang = #!/bin/bash
+
+when 1st time we are clone repo we need to do below
+1.git clone <clone link>
+and next time onwords we need to pull the repo
+git pull 
