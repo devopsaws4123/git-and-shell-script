@@ -13,3 +13,11 @@ when 1st time we are clone repo we need to do below
 1.git clone <clone link>
 and next time onwords we need to pull the repo
 git pull 
+
+$? --> to know the exit statu, useally if we have 0(Success), other than 0 is failed
+DATE=$(date) ---> it will print the date
+for colours
+----------
+RED="\e[31m"
+GREEN="\e[32m"
+NORMAL="\e[0m"
